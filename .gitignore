@@ -1,5 +1,6 @@
-chr_ds/
 chr_mds_fdr5/
+chr_mds_fdr10/
+chr_mds_fdr20/
 chr_names/
 log/
 annotation.csv
